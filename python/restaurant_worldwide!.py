@@ -37,7 +37,7 @@ co = cohere.Client('pS5EODFdSJ8qm02qMvV0YWSGiNBNzYoN4z04pkLD')
 response = co.generate(
     model='7a011a87-c9f0-427e-85fe-dcc1f5d00a51-ft',
     prompt='Generate 2 different types of cuisines from different regions. Return these with the format "%[cuisine 1]%, @[cuisine 2]@"',
-  temperature=0.9,  
+  temperature=0.6,  
   max_tokens=100
 )
 # For example: Mexican, American, Italian, French, Japanese, Indian. See country training data for more examples
@@ -48,7 +48,7 @@ indexes_2 = [i for i in range(len(reponse)) if reponse[i] == "@"]
 
 print("Cuisine types:")
 # write_read("Cuisine types:")
-print(reponse[indexes_1[0]+1:indexes_1[1]].title() + ", " + reponse[indexes_2[0]+1:indexes_2[1]].title())
+print(reponse[indexes_1[0]+1:indexes_1[1]].title() + "\n" + reponse[indexes_2[0]+1:indexes_2[1]].title())
 
 print("Up or down option?")
 user_country = check_serial()
@@ -64,7 +64,7 @@ print(cuisine_type.title())
 response_2 = co.generate(
     model='4a6a555c-311e-4774-b78c-eb15d3fcd145-ft',
     prompt=f'Generate 2 different main courses commonly found in {cuisine_type} cuisine. Return these with the format "%[dish 1]%, @[dish 2]@"',
-  temperature=0.9,  
+  temperature=0.6,  
   max_tokens=100
 )
 
@@ -73,7 +73,7 @@ indexes_main_1 = [i for i in range(len(reponse_2)) if reponse_2[i] == "%"]
 indexes_main_2 = [i for i in range(len(reponse_2)) if reponse_2[i] == "@"]
 
 print("\nMain course options:")
-print(reponse_2[indexes_main_1[0]+1:indexes_main_1[1]].title() + ", " + reponse_2[indexes_main_2[0]+1:indexes_main_2[1]].title())
+print(reponse_2[indexes_main_1[0]+1:indexes_main_1[1]].title() + "\n" + reponse_2[indexes_main_2[0]+1:indexes_main_2[1]].title())
 
 
 print("Up or Down option?")
@@ -89,7 +89,7 @@ if user_main == "D":
 response_3 = co.generate(
     model='6e814468-328b-446c-af34-5be0e5d95abd-ft',
     prompt=f'Generate 2 different desserts commonly found in {cuisine_type} cuisine. Return these with the format "%[dessert 1]%", @[dessert 2]@"',
-  temperature=0.9,  
+  temperature=0.6,  
   max_tokens=100
 )
 
@@ -98,7 +98,7 @@ indexes_dessert_1 = [i for i in range(len(reponse_3)) if reponse_3[i] == "%"]
 indexes_dessert_2 = [i for i in range(len(reponse_3)) if reponse_3[i] == "@"]
 
 print("\nDessert options: ")
-print(reponse_3[indexes_dessert_1[0]+1:indexes_dessert_1[1]].title() + ", " + reponse_3[indexes_dessert_2[0]+1:indexes_dessert_2[1]].title())
+print(reponse_3[indexes_dessert_1[0]+1:indexes_dessert_1[1]].title() + "\n" + reponse_3[indexes_dessert_2[0]+1:indexes_dessert_2[1]].title())
 
 
 print("Up or Down option?")
