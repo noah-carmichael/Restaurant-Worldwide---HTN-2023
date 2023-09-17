@@ -1,0 +1,32 @@
+{"prompt": "Generate 2 different main courses commonly found in Angolan cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Calulu%, @Mufete@"}
+{"prompt": "Generate 2 different main courses commonly found in Ethiopian cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Kinche%, @Azifa@"}
+{"prompt": "Generate 2 different main courses commonly found in Kenyan cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Ugali%, @Nyama choma@"}
+{"prompt": "Generate 2 different main courses commonly found in Ugandan cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Posho%, @Sim-sim@"}
+{"prompt": "Generate 2 different main courses commonly found in Moroccan cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Couscous%, @Pastilla@"}
+{"prompt": "Generate 2 different main courses commonly found in Egyptian cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Ful Medames%, @Ta'ameya@"}
+{"prompt": "Generate 2 different main courses commonly found in Algerian cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Couscous%, @Rechta@"}
+{"prompt": "Generate 2 different main courses commonly found in South African cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Vetkoek%, @Bobotie@"}
+{"prompt": "Generate 2 different main courses commonly found in Nigerian cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Jollof Rice%, @Pate@"}
+{"prompt": "Generate 2 different main courses commonly found in Canadian cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Smoked goldeye%, @Pancakes@"}
+{"prompt": "Generate 2 different main courses commonly found in Mexican cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Tacos%, @Burritos@"}
+{"prompt": "Generate 2 different main courses commonly found in American cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Chicago-style Pizza%, @Burgers@"}
+{"prompt": "Generate 2 different main courses commonly found in Costa Rican cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Casado%, @Gallo pinto@"}
+{"prompt": "Generate 2 different main courses commonly found in Argentine cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Empanadas%, @Chorizo@"}
+{"prompt": "Generate 2 different main courses commonly found in Brazilian cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Feijoada%, @Moqueca@"}
+{"prompt": "Generate 2 different main courses commonly found in Chilean cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Paila marina%, @Almejas a la Parmesana@"}
+{"prompt": "Generate 2 different main courses commonly found in Peruvian cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Ceviche%, @Jalea@"}
+{"prompt": "Generate 2 different main courses commonly found in Venezuelan cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Arepa%, @Caraotas negras@"}
+{"prompt": "Generate 2 different main courses commonly found in Cuban cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Arroz con pollo%, @Ropa vieja@"}
+{"prompt": "Generate 2 different main courses commonly found in Chinese cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Dumplings%, @Kung Pao chicken@"}
+{"prompt": "Generate 2 different main courses commonly found in Japanese cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Sushi%, @Yakitori@"}
+{"prompt": "Generate 2 different main courses commonly found in Korean cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Bulgogi%, @Jajangmyeon@"}
+{"prompt": "Generate 2 different main courses commonly found in Thai cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Pad Thai%, @Tom Yum@"}
+{"prompt": "Generate 2 different main courses commonly found in French cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%French onion soup%, @Bouillabaisse@"}
+{"prompt": "Generate 2 different main courses commonly found in British cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Fish and chips%, @Yorkshire Pudding@"}
+{"prompt": "Generate 2 different main courses commonly found in German cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Currywurst%, @Schnitzel@"}
+{"prompt": "Generate 2 different main courses commonly found in Italian cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Pasta%, @Pizza@"}
+{"prompt": "Generate 2 different main courses commonly found in Greek cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Souvlaki%, @Moussaka@"}
+{"prompt": "Generate 2 different main courses commonly found in Turkish cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Lahmacun%, @Pilav@"}
+{"prompt": "Generate 2 different main courses commonly found in Spanish cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Gazpacho%, @Patatas Bravas@"}
+{"prompt": "Generate 2 different main courses commonly found in Danish cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Frikadeller%, @Tarteletter@"}
+{"prompt": "Generate 2 different main courses commonly found in Indian cuisine. Return these with the format \"%[dish 1]%, @[dish 2]@\"", "completion": "%Masala dosa%, @Vada pav@"}

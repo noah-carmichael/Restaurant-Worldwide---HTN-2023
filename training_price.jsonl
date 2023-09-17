@@ -1,0 +1,32 @@
+{"prompt": "Generate the price of one plate of cheeseburger. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$14"}
+{"prompt": "Generate the price of one plate of pizza. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$10"}
+{"prompt": "Generate the price of one plate of fried chicken. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$24"}
+{"prompt": "Generate the price of one plate of sushi. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$19"}
+{"prompt": "Generate the price of one plate of grilled salmon. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$15"}
+{"prompt": "Generate the price of one plate of lamb. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$21"}
+{"prompt": "Generate the price of one plate of burrito. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$9"}
+{"prompt": "Generate the price of one plate of kebab. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$28"}
+{"prompt": "Generate the price of one plate of tajine. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$20"}
+{"prompt": "Generate the price of one plate of ceviche. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$17"}
+{"prompt": "Generate the price of one plate of xiaolongbao. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$14"}
+{"prompt": "Generate the price of one plate of dosa. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$15"}
+{"prompt": "Generate the price of one plate of naan. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$11"}
+{"prompt": "Generate the price of one plate of nasi goreng. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$14"}
+{"prompt": "Generate the price of one plate of poutine. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$18"}
+{"prompt": "Generate the price of one plate of gemista. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$22"}
+{"prompt": "Generate the price of one plate of haggis. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$19"}
+{"prompt": "Generate the price of one plate of bratwurst. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$10"}
+{"prompt": "Generate the price of one plate of unagi. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$15"}
+{"prompt": "Generate the price of one plate of shakshuka. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$13"}
+{"prompt": "Generate the price of one plate of curry. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$12"}
+{"prompt": "Generate the price of one plate of pho. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$13"}
+{"prompt": "Generate the price of one plate of falafel. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$17"}
+{"prompt": "Generate the price of one plate of empanadas. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$19"}
+{"prompt": "Generate the price of one plate of kimchi. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$15"}
+{"prompt": "Generate the price of one plate of paella. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$14"}
+{"prompt": "Generate the price of one plate of pad thai. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$14"}
+{"prompt": "Generate the price of one plate of borscht. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$17"}
+{"prompt": "Generate the price of one plate of tandoori chicken. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$11"}
+{"prompt": "Generate the price of one plate of dim sum. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$29"}
+{"prompt": "Generate the price of one plate of tostones. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$8"}
+{"prompt": "Generate the price of one plate of tamales. It must be between $8 and $40. Return with the format %[$price]%", "completion": "$18"}

@@ -1,0 +1,32 @@
+{"prompt": "Generate 2 different desserts commonly found in Australian cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Chocolate crackles%, @Anzac biscuit@"}
+{"prompt": "Generate 2 different desserts commonly found in Algerian cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Baklawa%, @Makrout Louz@"}
+{"prompt": "Generate 2 different desserts commonly found in Brazilian cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Goiabada%, @Cajuzinho@"}
+{"prompt": "Generate 2 different desserts commonly found in Bulgarian cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Torta Garash%, @Kozunak@"}
+{"prompt": "Generate 2 different desserts commonly found in Canadian cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Nanaimo bar%, @Sugar pie@"}
+{"prompt": "Generate 2 different desserts commonly found in Chinese cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Annin tofu%, @Egg tart@"}
+{"prompt": "Generate 2 different desserts commonly found in French cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Crème brûlée%, @Éclair@"}
+{"prompt": "Generate 2 different desserts commonly found in Finnish cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Runeberg torte%, @Rönttönen@"}
+{"prompt": "Generate 2 different desserts commonly found in Greek cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Loukoumades%, @Bougatsa@"}
+{"prompt": "Generate 2 different desserts commonly found in German cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Baumkuchen%, @Black Forest cake@"}
+{"prompt": "Generate 2 different desserts commonly found in Hungarian cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Angel wings%, @Dobos torte@"}
+{"prompt": "Generate 2 different desserts commonly found in Indian cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Rasogolla%, @Laddu@"}
+{"prompt": "Generate 2 different desserts commonly found in Indonesian cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Es campur%, @Lupis@"}
+{"prompt": "Generate 2 different desserts commonly found in Iranian cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Bastani%, @Komaj sehen@"}
+{"prompt": "Generate 2 different desserts commonly found in Italian cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Biscotti%, @Crostata@"}
+{"prompt": "Generate 2 different desserts commonly found in Japanese cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Chinsuko%, @Melonpan@"}
+{"prompt": "Generate 2 different desserts commonly found in Korean cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Hodu-gwaja%, @Patbingsu@"}
+{"prompt": "Generate 2 different desserts commonly found in Malaysian cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Batik cake%, @Sarawak layer cake@"}
+{"prompt": "Generate 2 different desserts commonly found in Mexican cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Bionico%, @Cajeta@"}
+{"prompt": "Generate 2 different desserts commonly found in New Zealand cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Afghan biscuit%, @Lolly cake@"}
+{"prompt": "Generate 2 different desserts commonly found in Pakistani cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Bal Mithai%, @Shahi Tukra@"}
+{"prompt": "Generate 2 different desserts commonly found in Dutch cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Griesmeelpudding%, @Broeder@"}
+{"prompt": "Generate 2 different desserts commonly found in Filipino cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Kalamay%, @Sans rival@"}
+{"prompt": "Generate 2 different desserts commonly found in Polish cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Ciepłe lody%, @Kołacz@"}
+{"prompt": "Generate 2 different desserts commonly found in Peruvian cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Suspiro a la limeña%, @Picarones@"}
+{"prompt": "Generate 2 different desserts commonly found in Portuguese cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Malasada%, @Aletria@"}
+{"prompt": "Generate 2 different desserts commonly found in Russian cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Blini%, @Zefir@"}
+{"prompt": "Generate 2 different desserts commonly found in Spanish cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Casadiella%, @Tortell@"}
+{"prompt": "Generate 2 different desserts commonly found in Thai cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Khanom khrok%, @Tub tim krob@"}
+{"prompt": "Generate 2 different desserts commonly found in Turkish cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Cezerye%, @Kurabiye@"}
+{"prompt": "Generate 2 different desserts commonly found in American cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Apple crisp%, @Cinnamon rolls@"}
+{"prompt": "Generate 2 different desserts commonly found in British cuisine. Return these with the format \"%[dessert 1]%, @[dessert 2]@\"", "completion": "%Banoffee pie%, @Cherries jubilee@"}
